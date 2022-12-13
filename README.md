@@ -1,4 +1,4 @@
-# CSE597-CV
+# CSE597
 CSE597 Final Project 
 
 # Dataset
